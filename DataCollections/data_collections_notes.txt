@@ -25,8 +25,12 @@ Slicing
 
 Methods
 
-
-
+List
+- Indexing
+- Slicing
+- Methods
+- Iterate over a list
+- List Comprehension
 
 
 
